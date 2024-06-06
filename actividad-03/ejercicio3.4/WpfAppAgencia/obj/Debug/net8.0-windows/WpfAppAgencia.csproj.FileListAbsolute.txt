@@ -1,0 +1,52 @@
+C:\Users\goku9\source\repos\ejercicio3.4\WpfAppAgencia\bin\Debug\net8.0-windows\WpfAppAgencia.exe
+C:\Users\goku9\source\repos\ejercicio3.4\WpfAppAgencia\bin\Debug\net8.0-windows\WpfAppAgencia.deps.json
+C:\Users\goku9\source\repos\ejercicio3.4\WpfAppAgencia\bin\Debug\net8.0-windows\WpfAppAgencia.runtimeconfig.json
+C:\Users\goku9\source\repos\ejercicio3.4\WpfAppAgencia\bin\Debug\net8.0-windows\WpfAppAgencia.dll
+C:\Users\goku9\source\repos\ejercicio3.4\WpfAppAgencia\bin\Debug\net8.0-windows\WpfAppAgencia.pdb
+C:\Users\goku9\source\repos\ejercicio3.4\WpfAppAgencia\bin\Debug\net8.0-windows\BLL.dll
+C:\Users\goku9\source\repos\ejercicio3.4\WpfAppAgencia\bin\Debug\net8.0-windows\Models.dll
+C:\Users\goku9\source\repos\ejercicio3.4\WpfAppAgencia\bin\Debug\net8.0-windows\Models.pdb
+C:\Users\goku9\source\repos\ejercicio3.4\WpfAppAgencia\bin\Debug\net8.0-windows\BLL.pdb
+C:\Users\goku9\source\repos\ejercicio3.4\WpfAppAgencia\obj\Debug\net8.0-windows\WpfAppAgencia.csproj.AssemblyReference.cache
+C:\Users\goku9\source\repos\ejercicio3.4\WpfAppAgencia\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\goku9\source\repos\ejercicio3.4\WpfAppAgencia\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\goku9\source\repos\ejercicio3.4\WpfAppAgencia\obj\Debug\net8.0-windows\WpfAppAgencia_MarkupCompile.cache
+C:\Users\goku9\source\repos\ejercicio3.4\WpfAppAgencia\obj\Debug\net8.0-windows\WpfAppAgencia_MarkupCompile.lref
+C:\Users\goku9\source\repos\ejercicio3.4\WpfAppAgencia\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\goku9\source\repos\ejercicio3.4\WpfAppAgencia\obj\Debug\net8.0-windows\WpfAppAgencia.g.resources
+C:\Users\goku9\source\repos\ejercicio3.4\WpfAppAgencia\obj\Debug\net8.0-windows\WpfAppAgencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goku9\source\repos\ejercicio3.4\WpfAppAgencia\obj\Debug\net8.0-windows\WpfAppAgencia.AssemblyInfoInputs.cache
+C:\Users\goku9\source\repos\ejercicio3.4\WpfAppAgencia\obj\Debug\net8.0-windows\WpfAppAgencia.AssemblyInfo.cs
+C:\Users\goku9\source\repos\ejercicio3.4\WpfAppAgencia\obj\Debug\net8.0-windows\WpfAppAgencia.csproj.CoreCompileInputs.cache
+C:\Users\goku9\source\repos\ejercicio3.4\WpfAppAgencia\obj\Debug\net8.0-windows\WpfAppAg.411CAC19.Up2Date
+C:\Users\goku9\source\repos\ejercicio3.4\WpfAppAgencia\obj\Debug\net8.0-windows\WpfAppAgencia.dll
+C:\Users\goku9\source\repos\ejercicio3.4\WpfAppAgencia\obj\Debug\net8.0-windows\refint\WpfAppAgencia.dll
+C:\Users\goku9\source\repos\ejercicio3.4\WpfAppAgencia\obj\Debug\net8.0-windows\WpfAppAgencia.pdb
+C:\Users\goku9\source\repos\ejercicio3.4\WpfAppAgencia\obj\Debug\net8.0-windows\WpfAppAgencia.genruntimeconfig.cache
+C:\Users\goku9\source\repos\ejercicio3.4\WpfAppAgencia\obj\Debug\net8.0-windows\ref\WpfAppAgencia.dll
+C:\Users\goku9\OneDrive\Escritorio\SENA\TAREAS SENA\software\victor\C#\actividad-03\ejercicio3.4\WpfAppAgencia\bin\Debug\net8.0-windows\WpfAppAgencia.exe
+C:\Users\goku9\OneDrive\Escritorio\SENA\TAREAS SENA\software\victor\C#\actividad-03\ejercicio3.4\WpfAppAgencia\bin\Debug\net8.0-windows\WpfAppAgencia.deps.json
+C:\Users\goku9\OneDrive\Escritorio\SENA\TAREAS SENA\software\victor\C#\actividad-03\ejercicio3.4\WpfAppAgencia\bin\Debug\net8.0-windows\WpfAppAgencia.runtimeconfig.json
+C:\Users\goku9\OneDrive\Escritorio\SENA\TAREAS SENA\software\victor\C#\actividad-03\ejercicio3.4\WpfAppAgencia\bin\Debug\net8.0-windows\WpfAppAgencia.dll
+C:\Users\goku9\OneDrive\Escritorio\SENA\TAREAS SENA\software\victor\C#\actividad-03\ejercicio3.4\WpfAppAgencia\bin\Debug\net8.0-windows\WpfAppAgencia.pdb
+C:\Users\goku9\OneDrive\Escritorio\SENA\TAREAS SENA\software\victor\C#\actividad-03\ejercicio3.4\WpfAppAgencia\bin\Debug\net8.0-windows\BLL.dll
+C:\Users\goku9\OneDrive\Escritorio\SENA\TAREAS SENA\software\victor\C#\actividad-03\ejercicio3.4\WpfAppAgencia\bin\Debug\net8.0-windows\Models.dll
+C:\Users\goku9\OneDrive\Escritorio\SENA\TAREAS SENA\software\victor\C#\actividad-03\ejercicio3.4\WpfAppAgencia\bin\Debug\net8.0-windows\Models.pdb
+C:\Users\goku9\OneDrive\Escritorio\SENA\TAREAS SENA\software\victor\C#\actividad-03\ejercicio3.4\WpfAppAgencia\bin\Debug\net8.0-windows\BLL.pdb
+C:\Users\goku9\OneDrive\Escritorio\SENA\TAREAS SENA\software\victor\C#\actividad-03\ejercicio3.4\WpfAppAgencia\obj\Debug\net8.0-windows\WpfAppAgencia.csproj.AssemblyReference.cache
+C:\Users\goku9\OneDrive\Escritorio\SENA\TAREAS SENA\software\victor\C#\actividad-03\ejercicio3.4\WpfAppAgencia\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\goku9\OneDrive\Escritorio\SENA\TAREAS SENA\software\victor\C#\actividad-03\ejercicio3.4\WpfAppAgencia\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\goku9\OneDrive\Escritorio\SENA\TAREAS SENA\software\victor\C#\actividad-03\ejercicio3.4\WpfAppAgencia\obj\Debug\net8.0-windows\WpfAppAgencia_MarkupCompile.cache
+C:\Users\goku9\OneDrive\Escritorio\SENA\TAREAS SENA\software\victor\C#\actividad-03\ejercicio3.4\WpfAppAgencia\obj\Debug\net8.0-windows\WpfAppAgencia_MarkupCompile.lref
+C:\Users\goku9\OneDrive\Escritorio\SENA\TAREAS SENA\software\victor\C#\actividad-03\ejercicio3.4\WpfAppAgencia\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\goku9\OneDrive\Escritorio\SENA\TAREAS SENA\software\victor\C#\actividad-03\ejercicio3.4\WpfAppAgencia\obj\Debug\net8.0-windows\WpfAppAgencia.g.resources
+C:\Users\goku9\OneDrive\Escritorio\SENA\TAREAS SENA\software\victor\C#\actividad-03\ejercicio3.4\WpfAppAgencia\obj\Debug\net8.0-windows\WpfAppAgencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goku9\OneDrive\Escritorio\SENA\TAREAS SENA\software\victor\C#\actividad-03\ejercicio3.4\WpfAppAgencia\obj\Debug\net8.0-windows\WpfAppAgencia.AssemblyInfoInputs.cache
+C:\Users\goku9\OneDrive\Escritorio\SENA\TAREAS SENA\software\victor\C#\actividad-03\ejercicio3.4\WpfAppAgencia\obj\Debug\net8.0-windows\WpfAppAgencia.AssemblyInfo.cs
+C:\Users\goku9\OneDrive\Escritorio\SENA\TAREAS SENA\software\victor\C#\actividad-03\ejercicio3.4\WpfAppAgencia\obj\Debug\net8.0-windows\WpfAppAgencia.csproj.CoreCompileInputs.cache
+C:\Users\goku9\OneDrive\Escritorio\SENA\TAREAS SENA\software\victor\C#\actividad-03\ejercicio3.4\WpfAppAgencia\obj\Debug\net8.0-windows\WpfAppAg.411CAC19.Up2Date
+C:\Users\goku9\OneDrive\Escritorio\SENA\TAREAS SENA\software\victor\C#\actividad-03\ejercicio3.4\WpfAppAgencia\obj\Debug\net8.0-windows\WpfAppAgencia.dll
+C:\Users\goku9\OneDrive\Escritorio\SENA\TAREAS SENA\software\victor\C#\actividad-03\ejercicio3.4\WpfAppAgencia\obj\Debug\net8.0-windows\refint\WpfAppAgencia.dll
+C:\Users\goku9\OneDrive\Escritorio\SENA\TAREAS SENA\software\victor\C#\actividad-03\ejercicio3.4\WpfAppAgencia\obj\Debug\net8.0-windows\WpfAppAgencia.pdb
+C:\Users\goku9\OneDrive\Escritorio\SENA\TAREAS SENA\software\victor\C#\actividad-03\ejercicio3.4\WpfAppAgencia\obj\Debug\net8.0-windows\WpfAppAgencia.genruntimeconfig.cache
+C:\Users\goku9\OneDrive\Escritorio\SENA\TAREAS SENA\software\victor\C#\actividad-03\ejercicio3.4\WpfAppAgencia\obj\Debug\net8.0-windows\ref\WpfAppAgencia.dll

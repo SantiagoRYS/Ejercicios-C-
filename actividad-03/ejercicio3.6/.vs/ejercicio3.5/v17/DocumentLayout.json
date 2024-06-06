@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\goku9\\source\\repos\\ejercicio3.5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1849B87-471B-435E-8E70-76BF67D4E7B9}|WpfAppJugadores\\WpfAppJugadores.csproj|c:\\users\\goku9\\source\\repos\\ejercicio3.5\\wpfappjugadores\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1849B87-471B-435E-8E70-76BF67D4E7B9}|WpfAppJugadores\\WpfAppJugadores.csproj|solutionrelative:wpfappjugadores\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1849B87-471B-435E-8E70-76BF67D4E7B9}|WpfAppJugadores\\WpfAppJugadores.csproj|c:\\users\\goku9\\source\\repos\\ejercicio3.5\\wpfappjugadores\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F1849B87-471B-435E-8E70-76BF67D4E7B9}|WpfAppJugadores\\WpfAppJugadores.csproj|solutionrelative:wpfappjugadores\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838DBB6B-178E-4361-8C20-21D33578F215}|BLL\\BLL.csproj|c:\\users\\goku9\\source\\repos\\ejercicio3.5\\bll\\validacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838DBB6B-178E-4361-8C20-21D33578F215}|BLL\\BLL.csproj|solutionrelative:bll\\validacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8249335-13B0-43E9-AD0E-80F2B316B528}|Models\\Models.csproj|c:\\users\\goku9\\source\\repos\\ejercicio3.5\\models\\jugadorcampo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8249335-13B0-43E9-AD0E-80F2B316B528}|Models\\Models.csproj|solutionrelative:models\\jugadorcampo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8249335-13B0-43E9-AD0E-80F2B316B528}|Models\\Models.csproj|c:\\users\\goku9\\source\\repos\\ejercicio3.5\\models\\portero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8249335-13B0-43E9-AD0E-80F2B316B528}|Models\\Models.csproj|solutionrelative:models\\portero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8249335-13B0-43E9-AD0E-80F2B316B528}|Models\\Models.csproj|c:\\users\\goku9\\source\\repos\\ejercicio3.5\\models\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8249335-13B0-43E9-AD0E-80F2B316B528}|Models\\Models.csproj|solutionrelative:models\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 191,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\goku9\\source\\repos\\ejercicio3.5\\WpfAppJugadores\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfAppJugadores\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\goku9\\source\\repos\\ejercicio3.5\\WpfAppJugadores\\MainWindow.xaml",
+              "RelativeToolTip": "WpfAppJugadores\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-06T01:02:13.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\goku9\\source\\repos\\ejercicio3.5\\WpfAppJugadores\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppJugadores\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\goku9\\source\\repos\\ejercicio3.5\\WpfAppJugadores\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfAppJugadores\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAswIEAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T01:02:13.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Validacion.cs",
+              "DocumentMoniker": "C:\\Users\\goku9\\source\\repos\\ejercicio3.5\\BLL\\Validacion.cs",
+              "RelativeDocumentMoniker": "BLL\\Validacion.cs",
+              "ToolTip": "C:\\Users\\goku9\\source\\repos\\ejercicio3.5\\BLL\\Validacion.cs",
+              "RelativeToolTip": "BLL\\Validacion.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAcwB4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T00:38:04.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Portero.cs",
+              "DocumentMoniker": "C:\\Users\\goku9\\source\\repos\\ejercicio3.5\\Models\\Portero.cs",
+              "RelativeDocumentMoniker": "Models\\Portero.cs",
+              "ToolTip": "C:\\Users\\goku9\\source\\repos\\ejercicio3.5\\Models\\Portero.cs",
+              "RelativeToolTip": "Models\\Portero.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAzwBEAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T00:32:30.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JugadorCampo.cs",
+              "DocumentMoniker": "C:\\Users\\goku9\\source\\repos\\ejercicio3.5\\Models\\JugadorCampo.cs",
+              "RelativeDocumentMoniker": "Models\\JugadorCampo.cs",
+              "ToolTip": "C:\\Users\\goku9\\source\\repos\\ejercicio3.5\\Models\\JugadorCampo.cs",
+              "RelativeToolTip": "Models\\JugadorCampo.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAADgvyAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T00:27:20.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Jugador.cs",
+              "DocumentMoniker": "C:\\Users\\goku9\\source\\repos\\ejercicio3.5\\Models\\Jugador.cs",
+              "RelativeDocumentMoniker": "Models\\Jugador.cs",
+              "ToolTip": "C:\\Users\\goku9\\source\\repos\\ejercicio3.5\\Models\\Jugador.cs",
+              "RelativeToolTip": "Models\\Jugador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T00:21:12.915Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

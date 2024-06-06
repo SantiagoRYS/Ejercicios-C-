@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ika1tmedIvU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\goku9\\OneDrive\\Escritorio\\SENA\\TAREAS SENA\\software\\victor\\C#\\actividad-02\\Guia01ClasesObjetos\\Presentacion_WPF\\Presentacion_WPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\goku9\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.19\\microsoft.windowsdesktop.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\goku9\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.19\\microsoft.netcore.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\goku9\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.19\\microsoft.aspnetcore.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\goku9\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.19\\microsoft.netcore.app.host.win-x64.7.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,33 @@
+﻿<Window x:Class="WpfAppCoordenadas.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppCoordenadas"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <GroupBox HorizontalAlignment="Left" Height="119" Header="Coordenadas del punto" Margin="32,28,0,0" VerticalAlignment="Top" Width="222">
+            <Canvas>
+                <Label Content="Coordenada X" Canvas.Left="20" Canvas.Top="22"/>
+                <Label Content="Coordenada Y" Canvas.Left="20" Canvas.Top="60" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+            </Canvas>
+        </GroupBox>
+        <GroupBox HorizontalAlignment="Left" Height="86" Header="Seleccione un punto" Margin="34,161,0,0" VerticalAlignment="Top" Width="188">
+            <Canvas/>
+        </GroupBox>
+        <Button x:Name="BtnCapturar" Content="Capturar&#xD;&#xA;coordenadas" HorizontalAlignment="Left" Margin="280,59,0,0" VerticalAlignment="Top" Click="BtnCapturar_Click"/>
+        <Button x:Name="BtnCalcular" Content="Calcular&#xD;&#xA;distancia" HorizontalAlignment="Left" Margin="280,114,0,0" VerticalAlignment="Top" Width="72" Click="BtnCalcular_Click"/>
+        <Button x:Name="btnSalir" Content="Salir" HorizontalAlignment="Left" Margin="438,206,0,0" VerticalAlignment="Top" Width="72" Height="36" Click="btnSalir_Click"/>
+        <TextBox x:Name="TxbX" HorizontalAlignment="Left" Margin="175,70,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="47"/>
+        <TextBox x:Name="TxbY" HorizontalAlignment="Left" Margin="175,110,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="47"/>
+        <RadioButton x:Name="RbtPunto1" Content="Punto1" HorizontalAlignment="Left" Margin="58,189,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="RbtPunto2" Content="Punto 2" HorizontalAlignment="Left" Margin="58,217,0,0" VerticalAlignment="Top"/>
+        <Label Content="Coordenadas del punto 1:" HorizontalAlignment="Left" Margin="400,64,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="LblPunto1" Content="" HorizontalAlignment="Left" Margin="400,90,0,0" VerticalAlignment="Top" Width="147"/>
+        <Label Content="Coordenadas del punto 2:" HorizontalAlignment="Left" Margin="400,143,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="LblPunto2" Content="" HorizontalAlignment="Left" Margin="400,169,0,0" VerticalAlignment="Top" Width="147"/>
+        <Label x:Name="LblTotal" Content="" HorizontalAlignment="Left" Margin="254,190,0,0" VerticalAlignment="Top" Height="28" Width="141"/>
+
+    </Grid>
+</Window>

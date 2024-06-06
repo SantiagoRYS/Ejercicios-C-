@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\goku9\\OneDrive\\Escritorio\\SENA\\TAREAS SENA\\software\\victor\\C#\\actividad-03\\ejercicio3.4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35E9A059-23B5-47E8-8A49-9DA57E4DB9F1}|WpfAppAgencia\\WpfAppAgencia.csproj|c:\\users\\goku9\\onedrive\\escritorio\\sena\\tareas sena\\software\\victor\\c#\\actividad-03\\ejercicio3.4\\wpfappagencia\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E9A059-23B5-47E8-8A49-9DA57E4DB9F1}|WpfAppAgencia\\WpfAppAgencia.csproj|solutionrelative:wpfappagencia\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E9A059-23B5-47E8-8A49-9DA57E4DB9F1}|WpfAppAgencia\\WpfAppAgencia.csproj|c:\\users\\goku9\\onedrive\\escritorio\\sena\\tareas sena\\software\\victor\\c#\\actividad-03\\ejercicio3.4\\wpfappagencia\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{35E9A059-23B5-47E8-8A49-9DA57E4DB9F1}|WpfAppAgencia\\WpfAppAgencia.csproj|solutionrelative:wpfappagencia\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68559861-A8BF-4B40-923E-12F74288F275}|BLL\\BLL.csproj|c:\\users\\goku9\\onedrive\\escritorio\\sena\\tareas sena\\software\\victor\\c#\\actividad-03\\ejercicio3.4\\bll\\validar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68559861-A8BF-4B40-923E-12F74288F275}|BLL\\BLL.csproj|solutionrelative:bll\\validar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52775E81-592C-43DA-83E2-8E0E3827343B}|Models\\Models.csproj|c:\\users\\goku9\\onedrive\\escritorio\\sena\\tareas sena\\software\\victor\\c#\\actividad-03\\ejercicio3.4\\models\\vehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52775E81-592C-43DA-83E2-8E0E3827343B}|Models\\Models.csproj|solutionrelative:models\\vehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52775E81-592C-43DA-83E2-8E0E3827343B}|Models\\Models.csproj|c:\\users\\goku9\\onedrive\\escritorio\\sena\\tareas sena\\software\\victor\\c#\\actividad-03\\ejercicio3.4\\models\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52775E81-592C-43DA-83E2-8E0E3827343B}|Models\\Models.csproj|solutionrelative:models\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52775E81-592C-43DA-83E2-8E0E3827343B}|Models\\Models.csproj|c:\\users\\goku9\\onedrive\\escritorio\\sena\\tareas sena\\software\\victor\\c#\\actividad-03\\ejercicio3.4\\models\\camioneta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52775E81-592C-43DA-83E2-8E0E3827343B}|Models\\Models.csproj|solutionrelative:models\\camioneta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Validar.cs",
+              "DocumentMoniker": "C:\\Users\\goku9\\OneDrive\\Escritorio\\SENA\\TAREAS SENA\\software\\victor\\C#\\actividad-03\\ejercicio3.4\\BLL\\Validar.cs",
+              "RelativeDocumentMoniker": "BLL\\Validar.cs",
+              "ToolTip": "C:\\Users\\goku9\\OneDrive\\Escritorio\\SENA\\TAREAS SENA\\software\\victor\\C#\\actividad-03\\ejercicio3.4\\BLL\\Validar.cs",
+              "RelativeToolTip": "BLL\\Validar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T03:04:30.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\goku9\\OneDrive\\Escritorio\\SENA\\TAREAS SENA\\software\\victor\\C#\\actividad-03\\ejercicio3.4\\WpfAppAgencia\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfAppAgencia\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\goku9\\OneDrive\\Escritorio\\SENA\\TAREAS SENA\\software\\victor\\C#\\actividad-03\\ejercicio3.4\\WpfAppAgencia\\MainWindow.xaml",
+              "RelativeToolTip": "WpfAppAgencia\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-05T02:35:46.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\goku9\\OneDrive\\Escritorio\\SENA\\TAREAS SENA\\software\\victor\\C#\\actividad-03\\ejercicio3.4\\WpfAppAgencia\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppAgencia\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\goku9\\OneDrive\\Escritorio\\SENA\\TAREAS SENA\\software\\victor\\C#\\actividad-03\\ejercicio3.4\\WpfAppAgencia\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfAppAgencia\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAswIsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T02:35:45.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Camioneta.cs",
+              "DocumentMoniker": "C:\\Users\\goku9\\OneDrive\\Escritorio\\SENA\\TAREAS SENA\\software\\victor\\C#\\actividad-03\\ejercicio3.4\\Models\\Camioneta.cs",
+              "RelativeDocumentMoniker": "Models\\Camioneta.cs",
+              "ToolTip": "C:\\Users\\goku9\\OneDrive\\Escritorio\\SENA\\TAREAS SENA\\software\\victor\\C#\\actividad-03\\ejercicio3.4\\Models\\Camioneta.cs",
+              "RelativeToolTip": "Models\\Camioneta.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwBUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T02:30:40.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Auto.cs",
+              "DocumentMoniker": "C:\\Users\\goku9\\OneDrive\\Escritorio\\SENA\\TAREAS SENA\\software\\victor\\C#\\actividad-03\\ejercicio3.4\\Models\\Auto.cs",
+              "RelativeDocumentMoniker": "Models\\Auto.cs",
+              "ToolTip": "C:\\Users\\goku9\\OneDrive\\Escritorio\\SENA\\TAREAS SENA\\software\\victor\\C#\\actividad-03\\ejercicio3.4\\Models\\Auto.cs",
+              "RelativeToolTip": "Models\\Auto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T02:26:24.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vehiculos.cs",
+              "DocumentMoniker": "C:\\Users\\goku9\\OneDrive\\Escritorio\\SENA\\TAREAS SENA\\software\\victor\\C#\\actividad-03\\ejercicio3.4\\Models\\Vehiculos.cs",
+              "RelativeDocumentMoniker": "Models\\Vehiculos.cs",
+              "ToolTip": "C:\\Users\\goku9\\OneDrive\\Escritorio\\SENA\\TAREAS SENA\\software\\victor\\C#\\actividad-03\\ejercicio3.4\\Models\\Vehiculos.cs",
+              "RelativeToolTip": "Models\\Vehiculos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T02:20:48.348Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

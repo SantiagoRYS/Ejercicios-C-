@@ -1,0 +1,38 @@
+﻿<Window x:Class="WpfAppAgencia.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppAgencia"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="477" Width="351">
+    <Grid>
+        <GroupBox HorizontalAlignment="Left" Height="118" Header="Tipo de vehiculo" Margin="10,10,0,0" VerticalAlignment="Top" Width="176">
+            <Canvas/>
+        </GroupBox>
+        <RadioButton x:Name="RbtAutoCompacto" Content="Auto compacto" HorizontalAlignment="Left" Margin="20,32,0,0" VerticalAlignment="Top" Checked="RbtAutoCompacto_Checked"/>
+        <RadioButton x:Name="RbtCamioneta" Content="Camioneta" HorizontalAlignment="Left" Margin="20,102,0,0" VerticalAlignment="Top" Checked="RbtCamioneta_Checked"/>
+        <RadioButton x:Name="RbtVagoneta" Content="Vagoneta" HorizontalAlignment="Left" Margin="20,80,0,0" VerticalAlignment="Top" Checked="RbtVagoneta_Checked"/>
+        <RadioButton x:Name="RbtAutoDeLujo" Content="Auto de lujo" HorizontalAlignment="Left" Margin="20,57,0,0" VerticalAlignment="Top" Checked="RbtAutoDeLujo_Checked"/>
+        <GroupBox HorizontalAlignment="Left" Height="283" Header="Datos del vehiculo" Margin="12,141,0,0" VerticalAlignment="Top" Width="306">
+            <Canvas>
+                <Label Content="Numero de &#xD;&#xA;serie del motor:" Canvas.Left="10" Canvas.Top="4" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+                <Label x:Name="LblPasajeros" Content="Capacidad de&#xD;&#xA;pasajeros:" Canvas.Left="10" Canvas.Top="171" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+                <Label Content="Precio:" Canvas.Left="10" Canvas.Top="140" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+                <Label Content="Año (superior a 1885):" Canvas.Left="10" Canvas.Top="101" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+                <Label Content="Marca:" Canvas.Left="10" Canvas.Top="58" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+                <Label x:Name="LblCarga" Content="Capacidad de &#xD;&#xA;carga:" Canvas.Left="10" Canvas.Top="218" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+            </Canvas>
+        </GroupBox>
+        <TextBox x:Name="TxbNumero" HorizontalAlignment="Left" Margin="127,182,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="59"/>
+        <TextBox x:Name="TxbMarca" HorizontalAlignment="Left" Margin="81,220,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="134"/>
+        <TextBox x:Name="TxbAño" HorizontalAlignment="Left" Margin="155,265,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="46"/>
+        <TextBox x:Name="TxbPrecio" HorizontalAlignment="Left" Margin="81,302,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="75"/>
+        <TextBox x:Name="TxbPajaseros" HorizontalAlignment="Left" Margin="112,349,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="TxbCarga" HorizontalAlignment="Left" Margin="113,396,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="59"/>
+        <Button x:Name="BtnCapturar" Content="Capturar&#xD;&#xA;vehiculo" HorizontalAlignment="Left" Margin="235,20,0,0" VerticalAlignment="Top" Height="36" Width="83" Click="BtnCapturar_Click"/>
+        <Button x:Name="BtnMostrar" Content="Mostrar&#xD;&#xA;vehiculos" HorizontalAlignment="Left" Margin="235,71,0,0" VerticalAlignment="Top" Height="36" Width="83" Click="BtnMostrar_Click"/>
+        <Button x:Name="BtnSalir" Content="Salir" HorizontalAlignment="Left" Margin="251,121,0,0" VerticalAlignment="Top" Height="20" Width="51" Click="BtnSalir_Click"/>
+
+    </Grid>
+</Window>

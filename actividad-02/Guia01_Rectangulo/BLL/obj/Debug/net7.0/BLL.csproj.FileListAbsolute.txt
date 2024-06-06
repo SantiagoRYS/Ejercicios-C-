@@ -1,0 +1,11 @@
+C:\Users\Andre\Desktop\Studio\Guia01_Rectangulo\BLL\bin\Debug\net7.0\BLL.deps.json
+C:\Users\Andre\Desktop\Studio\Guia01_Rectangulo\BLL\bin\Debug\net7.0\BLL.dll
+C:\Users\Andre\Desktop\Studio\Guia01_Rectangulo\BLL\bin\Debug\net7.0\BLL.pdb
+C:\Users\Andre\Desktop\Studio\Guia01_Rectangulo\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\Desktop\Studio\Guia01_Rectangulo\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+C:\Users\Andre\Desktop\Studio\Guia01_Rectangulo\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+C:\Users\Andre\Desktop\Studio\Guia01_Rectangulo\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Desktop\Studio\Guia01_Rectangulo\BLL\obj\Debug\net7.0\BLL.dll
+C:\Users\Andre\Desktop\Studio\Guia01_Rectangulo\BLL\obj\Debug\net7.0\refint\BLL.dll
+C:\Users\Andre\Desktop\Studio\Guia01_Rectangulo\BLL\obj\Debug\net7.0\BLL.pdb
+C:\Users\Andre\Desktop\Studio\Guia01_Rectangulo\BLL\obj\Debug\net7.0\ref\BLL.dll

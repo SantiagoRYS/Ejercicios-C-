@@ -1,0 +1,15 @@
+C:\Users\goku9\OneDrive\Escritorio\SENA\TAREAS SENA\software\victor\C#\ejercicio1.9\Moldels\bin\Debug\net8.0\Moldels.deps.json
+C:\Users\goku9\OneDrive\Escritorio\SENA\TAREAS SENA\software\victor\C#\ejercicio1.9\Moldels\bin\Debug\net8.0\Moldels.dll
+C:\Users\goku9\OneDrive\Escritorio\SENA\TAREAS SENA\software\victor\C#\ejercicio1.9\Moldels\bin\Debug\net8.0\Moldels.pdb
+C:\Users\goku9\OneDrive\Escritorio\SENA\TAREAS SENA\software\victor\C#\ejercicio1.9\Moldels\bin\Debug\net8.0\BLL.dll
+C:\Users\goku9\OneDrive\Escritorio\SENA\TAREAS SENA\software\victor\C#\ejercicio1.9\Moldels\bin\Debug\net8.0\BLL.pdb
+C:\Users\goku9\OneDrive\Escritorio\SENA\TAREAS SENA\software\victor\C#\ejercicio1.9\Moldels\obj\Debug\net8.0\Moldels.csproj.AssemblyReference.cache
+C:\Users\goku9\OneDrive\Escritorio\SENA\TAREAS SENA\software\victor\C#\ejercicio1.9\Moldels\obj\Debug\net8.0\Moldels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goku9\OneDrive\Escritorio\SENA\TAREAS SENA\software\victor\C#\ejercicio1.9\Moldels\obj\Debug\net8.0\Moldels.AssemblyInfoInputs.cache
+C:\Users\goku9\OneDrive\Escritorio\SENA\TAREAS SENA\software\victor\C#\ejercicio1.9\Moldels\obj\Debug\net8.0\Moldels.AssemblyInfo.cs
+C:\Users\goku9\OneDrive\Escritorio\SENA\TAREAS SENA\software\victor\C#\ejercicio1.9\Moldels\obj\Debug\net8.0\Moldels.csproj.CoreCompileInputs.cache
+C:\Users\goku9\OneDrive\Escritorio\SENA\TAREAS SENA\software\victor\C#\ejercicio1.9\Moldels\obj\Debug\net8.0\Moldels.csproj.Up2Date
+C:\Users\goku9\OneDrive\Escritorio\SENA\TAREAS SENA\software\victor\C#\ejercicio1.9\Moldels\obj\Debug\net8.0\Moldels.dll
+C:\Users\goku9\OneDrive\Escritorio\SENA\TAREAS SENA\software\victor\C#\ejercicio1.9\Moldels\obj\Debug\net8.0\refint\Moldels.dll
+C:\Users\goku9\OneDrive\Escritorio\SENA\TAREAS SENA\software\victor\C#\ejercicio1.9\Moldels\obj\Debug\net8.0\Moldels.pdb
+C:\Users\goku9\OneDrive\Escritorio\SENA\TAREAS SENA\software\victor\C#\ejercicio1.9\Moldels\obj\Debug\net8.0\ref\Moldels.dll

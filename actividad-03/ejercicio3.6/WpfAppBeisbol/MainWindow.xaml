@@ -1,0 +1,35 @@
+﻿<Window x:Class="WpfAppBeisbol.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppBeisbol"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="290" Width="585">
+    <Grid>
+        <GroupBox HorizontalAlignment="Left" Height="106" Header="Posición del jugador" Margin="23,24,0,0" VerticalAlignment="Top" Width="165">
+            <Canvas>
+                <RadioButton x:Name="RbtPitcher" Content="Pitcher" Canvas.Left="9" Canvas.Top="10" HorizontalAlignment="Left" VerticalAlignment="Center" Checked="RbtPitcher_Checked"/>
+                <RadioButton x:Name="RbtPosicion" Content="Jugador de posicion" Canvas.Left="9" Canvas.Top="34" HorizontalAlignment="Left" VerticalAlignment="Center" Checked="RbtPosicion_Checked"/>
+                <RadioButton x:Name="RbtBateador" Content="Bateador designado" Canvas.Left="9" Canvas.Top="58" HorizontalAlignment="Left" VerticalAlignment="Center" Checked="RbtBateador_Checked"/>
+            </Canvas>
+        </GroupBox>
+        <GroupBox HorizontalAlignment="Left" Height="212" Header="Datos del jugador" Margin="209,24,0,0" VerticalAlignment="Top" Width="327">
+            <Canvas/>
+        </GroupBox>
+        <Button x:Name="BtnCapturar" Content="Capturar datos" HorizontalAlignment="Left" Margin="61,135,0,0" VerticalAlignment="Top" Width="89" Click="BtnCapturar_Click"/>
+        <Button x:Name="BtnMostrar" Content="Mostrar datos" HorizontalAlignment="Left" Margin="61,171,0,0" VerticalAlignment="Top" Width="89" Click="BtnMostrar_Click"/>
+        <Button x:Name="BtnSalir" Content="Salir" HorizontalAlignment="Left" Margin="61,209,0,0" VerticalAlignment="Top" Width="89" Click="BtnSalir_Click"/>
+        <Label x:Name="LblErrores" Content="Errores:" HorizontalAlignment="Left" Margin="236,196,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="LblHits" Content="Hits:" HorizontalAlignment="Left" Margin="236,160,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="LblPonches" Content="Ponches:" HorizontalAlignment="Left" Margin="236,125,0,0" VerticalAlignment="Top"/>
+        <Label Content="Nombre:" HorizontalAlignment="Left" Margin="236,88,0,0" VerticalAlignment="Top"/>
+        <Label Content="Núm. jugador:" HorizontalAlignment="Left" Margin="236,52,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="TxbNumero" HorizontalAlignment="Left" Margin="327,56,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="45"/>
+        <TextBox x:Name="TxbNombre" HorizontalAlignment="Left" Margin="297,92,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="TxbPonches" HorizontalAlignment="Left" Margin="297,130,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="37"/>
+        <TextBox x:Name="TxbHits" HorizontalAlignment="Left" Margin="274,164,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="42"/>
+        <TextBox x:Name="TxbErrores" HorizontalAlignment="Left" Margin="291,201,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="43"/>
+
+    </Grid>
+</Window>

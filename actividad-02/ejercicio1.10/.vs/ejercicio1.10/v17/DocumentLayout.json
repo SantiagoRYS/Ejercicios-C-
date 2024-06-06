@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\goku9\\source\\repos\\ejercicio1.10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4358D429-399B-42B7-9A9E-B76DB74865DF}|Models\\Models.csproj|c:\\users\\goku9\\source\\repos\\ejercicio1.10\\models\\restaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4358D429-399B-42B7-9A9E-B76DB74865DF}|Models\\Models.csproj|solutionrelative:models\\restaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8D17149-2995-4876-B30A-CED5F71F852F}|BLL\\BLL.csproj|c:\\users\\goku9\\source\\repos\\ejercicio1.10\\bll\\validar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8D17149-2995-4876-B30A-CED5F71F852F}|BLL\\BLL.csproj|solutionrelative:bll\\validar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D943EFFF-FDEB-46DD-935F-3072E92D802A}|WpfAppRestaurante\\WpfAppRestaurante.csproj|c:\\users\\goku9\\source\\repos\\ejercicio1.10\\wpfapprestaurante\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D943EFFF-FDEB-46DD-935F-3072E92D802A}|WpfAppRestaurante\\WpfAppRestaurante.csproj|solutionrelative:wpfapprestaurante\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D943EFFF-FDEB-46DD-935F-3072E92D802A}|WpfAppRestaurante\\WpfAppRestaurante.csproj|c:\\users\\goku9\\source\\repos\\ejercicio1.10\\wpfapprestaurante\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D943EFFF-FDEB-46DD-935F-3072E92D802A}|WpfAppRestaurante\\WpfAppRestaurante.csproj|solutionrelative:wpfapprestaurante\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\goku9\\source\\repos\\ejercicio1.10\\WpfAppRestaurante\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfAppRestaurante\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\goku9\\source\\repos\\ejercicio1.10\\WpfAppRestaurante\\MainWindow.xaml",
+              "RelativeToolTip": "WpfAppRestaurante\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-02T04:31:25.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\goku9\\source\\repos\\ejercicio1.10\\WpfAppRestaurante\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppRestaurante\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\goku9\\source\\repos\\ejercicio1.10\\WpfAppRestaurante\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfAppRestaurante\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAcwCEAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T04:03:09.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Validar.cs",
+              "DocumentMoniker": "C:\\Users\\goku9\\source\\repos\\ejercicio1.10\\BLL\\Validar.cs",
+              "RelativeDocumentMoniker": "BLL\\Validar.cs",
+              "ToolTip": "C:\\Users\\goku9\\source\\repos\\ejercicio1.10\\BLL\\Validar.cs",
+              "RelativeToolTip": "BLL\\Validar.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAAC0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T03:56:37.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Restaurante.cs",
+              "DocumentMoniker": "C:\\Users\\goku9\\source\\repos\\ejercicio1.10\\Models\\Restaurante.cs",
+              "RelativeDocumentMoniker": "Models\\Restaurante.cs",
+              "ToolTip": "C:\\Users\\goku9\\source\\repos\\ejercicio1.10\\Models\\Restaurante.cs",
+              "RelativeToolTip": "Models\\Restaurante.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAswD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T03:42:59.093Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\goku9\\OneDrive\\Escritorio\\SENA\\TAREAS SENA\\software\\victor\\C#\\ejemplo1_lista\\InterfaceWPF\\InterfaceWPF.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\goku9\\OneDrive\\Escritorio\\SENA\\TAREAS SENA\\software\\victor\\C#\\ejemplo1_lista\\BLL\\BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\goku9\\OneDrive\\Escritorio\\SENA\\TAREAS SENA\\software\\victor\\C#\\ejemplo1_lista\\BLL\\BLL.csproj",
+        "projectName": "BLL",
+        "projectPath": "C:\\Users\\goku9\\OneDrive\\Escritorio\\SENA\\TAREAS SENA\\software\\victor\\C#\\ejemplo1_lista\\BLL\\BLL.csproj",
+        "packagesPath": "C:\\Users\\goku9\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\goku9\\OneDrive\\Escritorio\\SENA\\TAREAS SENA\\software\\victor\\C#\\ejemplo1_lista\\BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\goku9\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\goku9\\OneDrive\\Escritorio\\SENA\\TAREAS SENA\\software\\victor\\C#\\ejemplo1_lista\\InterfaceWPF\\InterfaceWPF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\goku9\\OneDrive\\Escritorio\\SENA\\TAREAS SENA\\software\\victor\\C#\\ejemplo1_lista\\InterfaceWPF\\InterfaceWPF.csproj",
+        "projectName": "InterfaceWPF",
+        "projectPath": "C:\\Users\\goku9\\OneDrive\\Escritorio\\SENA\\TAREAS SENA\\software\\victor\\C#\\ejemplo1_lista\\InterfaceWPF\\InterfaceWPF.csproj",
+        "packagesPath": "C:\\Users\\goku9\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\goku9\\OneDrive\\Escritorio\\SENA\\TAREAS SENA\\software\\victor\\C#\\ejemplo1_lista\\InterfaceWPF\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\goku9\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "C:\\Users\\goku9\\OneDrive\\Escritorio\\SENA\\TAREAS SENA\\software\\victor\\C#\\ejemplo1_lista\\Models\\Models.csproj": {
+                "projectPath": "C:\\Users\\goku9\\OneDrive\\Escritorio\\SENA\\TAREAS SENA\\software\\victor\\C#\\ejemplo1_lista\\Models\\Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\goku9\\OneDrive\\Escritorio\\SENA\\TAREAS SENA\\software\\victor\\C#\\ejemplo1_lista\\Models\\Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\goku9\\OneDrive\\Escritorio\\SENA\\TAREAS SENA\\software\\victor\\C#\\ejemplo1_lista\\Models\\Models.csproj",
+        "projectName": "Models",
+        "projectPath": "C:\\Users\\goku9\\OneDrive\\Escritorio\\SENA\\TAREAS SENA\\software\\victor\\C#\\ejemplo1_lista\\Models\\Models.csproj",
+        "packagesPath": "C:\\Users\\goku9\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\goku9\\OneDrive\\Escritorio\\SENA\\TAREAS SENA\\software\\victor\\C#\\ejemplo1_lista\\Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\goku9\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\goku9\\OneDrive\\Escritorio\\SENA\\TAREAS SENA\\software\\victor\\C#\\ejemplo1_lista\\BLL\\BLL.csproj": {
+                "projectPath": "C:\\Users\\goku9\\OneDrive\\Escritorio\\SENA\\TAREAS SENA\\software\\victor\\C#\\ejemplo1_lista\\BLL\\BLL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+﻿<Window x:Class="WpfAppDivisas.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppDivisas"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <GroupBox HorizontalAlignment="Left" Height="235" Header="Pesos a Dolares" Margin="61,65,0,0" VerticalAlignment="Top" Width="339">
+            <Canvas>
+                <Label Content="Pesos" Canvas.Left="27" Canvas.Top="27" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+                <Label Content="Cambio" Canvas.Left="27" Canvas.Top="80" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+            </Canvas>
+        </GroupBox>
+        <TextBox x:Name="TxbPesos" HorizontalAlignment="Left" Margin="170,115,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="TxbCambio" HorizontalAlignment="Left" Margin="170,165,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="BtnCambiar" Content="Cambiar" HorizontalAlignment="Left" Margin="321,138,0,0" VerticalAlignment="Top" Width="56" Click="BtnCambiar_Click"/>
+        <Label x:Name="LblPesos" Content="" HorizontalAlignment="Left" Margin="104,250,0,0" VerticalAlignment="Top" Width="126"/>
+        <Label x:Name="LblDolares" Content="" HorizontalAlignment="Left" Margin="249,250,0,0" VerticalAlignment="Top" Width="128"/>
+
+    </Grid>
+</Window>

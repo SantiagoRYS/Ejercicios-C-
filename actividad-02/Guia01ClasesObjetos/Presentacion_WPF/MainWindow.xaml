@@ -1,0 +1,24 @@
+﻿<Window x:Class="Presentacion_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Presentacion_WPF"
+        mc:Ignorable="d"
+        Title="Circunferencia" Height="450" Width="800" ShowActivated="False">
+    <Grid>
+        <Label x:Name="LbRadio" Content="Radio" HorizontalAlignment="Left" Margin="97,79,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="TxbRadio" HorizontalAlignment="Left" Margin="209,83,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="120" PreviewTextInput="TxbRadio_PreviewTextInput" PreviewKeyDown="TxbRadio_PreviewKeyDown" DataObject.Pasting="TxbRadio_Pasting" />
+        <Button x:Name="BtnCapturarRadio" Content="Capturar Radio" HorizontalAlignment="Left" Margin="642,120,0,0" VerticalAlignment="Top" Click="BtnCapturarRadio_Click" Width="100" Height="25" BorderBrush="Black"/>
+        <Button x:Name="BtnCalcularArea" Content="Calcular Area" HorizontalAlignment="Left" Margin="642,165,0,0" VerticalAlignment="Top" Width="100" Height="25" BorderBrush="Black" Click="BtnCalcularArea_Click" IsEnabled="False"/>
+        <Button x:Name="BtnCalcularPerimetro" Content="Calcular Perimetro" HorizontalAlignment="Left" Margin="642,214,0,0" VerticalAlignment="Top" Width="100" Height="25" BorderBrush="Black" Click="BtnCalcularPerimetro_Click" IsEnabled="False"/>
+        <Button x:Name="BtnSalir" Content="Salir" HorizontalAlignment="Left" Margin="668,259,0,0" VerticalAlignment="Top" Height="25" Width="50" BorderBrush="Black" Click="BtnSalir_Click"/>
+        <GroupBox Header="Objetos" Margin="48,123,368,85"/>
+        <Canvas Margin="65,147,382,97">
+            <RadioButton x:Name="RbtRueda" Content="Rueda" Canvas.Left="62" Canvas.Top="43"/>
+            <RadioButton x:Name="RbtMoneda" Content="Moneda" Canvas.Left="62" Canvas.Top="97"/>
+        </Canvas>
+        <Label x:Name="LblResultado" Content="" HorizontalAlignment="Left" Margin="48,379,0,0" VerticalAlignment="Top" Width="694"/>
+
+    </Grid>
+</Window>

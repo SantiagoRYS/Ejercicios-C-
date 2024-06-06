@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\goku9\\OneDrive\\Escritorio\\SENA\\TAREAS SENA\\software\\victor\\C#\\actividad-03\\ejercicio3.6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B424473-746E-4705-B3AC-D584C876AB09}|WpfAppBeisbol\\WpfAppBeisbol.csproj|c:\\users\\goku9\\onedrive\\escritorio\\sena\\tareas sena\\software\\victor\\c#\\actividad-03\\ejercicio3.6\\wpfappbeisbol\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B424473-746E-4705-B3AC-D584C876AB09}|WpfAppBeisbol\\WpfAppBeisbol.csproj|solutionrelative:wpfappbeisbol\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B424473-746E-4705-B3AC-D584C876AB09}|WpfAppBeisbol\\WpfAppBeisbol.csproj|c:\\users\\goku9\\onedrive\\escritorio\\sena\\tareas sena\\software\\victor\\c#\\actividad-03\\ejercicio3.6\\wpfappbeisbol\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6B424473-746E-4705-B3AC-D584C876AB09}|WpfAppBeisbol\\WpfAppBeisbol.csproj|solutionrelative:wpfappbeisbol\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8249335-13B0-43E9-AD0E-80F2B316B528}|Models\\Models.csproj|c:\\users\\goku9\\onedrive\\escritorio\\sena\\tareas sena\\software\\victor\\c#\\actividad-03\\ejercicio3.6\\models\\bateador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8249335-13B0-43E9-AD0E-80F2B316B528}|Models\\Models.csproj|solutionrelative:models\\bateador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838DBB6B-178E-4361-8C20-21D33578F215}|BLL\\BLL.csproj|c:\\users\\goku9\\onedrive\\escritorio\\sena\\tareas sena\\software\\victor\\c#\\actividad-03\\ejercicio3.6\\bll\\validacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838DBB6B-178E-4361-8C20-21D33578F215}|BLL\\BLL.csproj|solutionrelative:bll\\validacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8249335-13B0-43E9-AD0E-80F2B316B528}|Models\\Models.csproj|c:\\users\\goku9\\onedrive\\escritorio\\sena\\tareas sena\\software\\victor\\c#\\actividad-03\\ejercicio3.6\\models\\posicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8249335-13B0-43E9-AD0E-80F2B316B528}|Models\\Models.csproj|solutionrelative:models\\posicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8249335-13B0-43E9-AD0E-80F2B316B528}|Models\\Models.csproj|c:\\users\\goku9\\onedrive\\escritorio\\sena\\tareas sena\\software\\victor\\c#\\actividad-03\\ejercicio3.6\\models\\pitchers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8249335-13B0-43E9-AD0E-80F2B316B528}|Models\\Models.csproj|solutionrelative:models\\pitchers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8249335-13B0-43E9-AD0E-80F2B316B528}|Models\\Models.csproj|c:\\users\\goku9\\onedrive\\escritorio\\sena\\tareas sena\\software\\victor\\c#\\actividad-03\\ejercicio3.6\\models\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8249335-13B0-43E9-AD0E-80F2B316B528}|Models\\Models.csproj|solutionrelative:models\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\goku9\\OneDrive\\Escritorio\\SENA\\TAREAS SENA\\software\\victor\\C#\\actividad-03\\ejercicio3.6\\WpfAppBeisbol\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfAppBeisbol\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\goku9\\OneDrive\\Escritorio\\SENA\\TAREAS SENA\\software\\victor\\C#\\actividad-03\\ejercicio3.6\\WpfAppBeisbol\\MainWindow.xaml",
+              "RelativeToolTip": "WpfAppBeisbol\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-06T04:55:41.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\goku9\\OneDrive\\Escritorio\\SENA\\TAREAS SENA\\software\\victor\\C#\\actividad-03\\ejercicio3.6\\WpfAppBeisbol\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppBeisbol\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\goku9\\OneDrive\\Escritorio\\SENA\\TAREAS SENA\\software\\victor\\C#\\actividad-03\\ejercicio3.6\\WpfAppBeisbol\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfAppBeisbol\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAwHEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T04:28:27.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Validacion.cs",
+              "DocumentMoniker": "C:\\Users\\goku9\\OneDrive\\Escritorio\\SENA\\TAREAS SENA\\software\\victor\\C#\\actividad-03\\ejercicio3.6\\BLL\\Validacion.cs",
+              "RelativeDocumentMoniker": "BLL\\Validacion.cs",
+              "ToolTip": "C:\\Users\\goku9\\OneDrive\\Escritorio\\SENA\\TAREAS SENA\\software\\victor\\C#\\actividad-03\\ejercicio3.6\\BLL\\Validacion.cs",
+              "RelativeToolTip": "BLL\\Validacion.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwCAAAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T03:25:14.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bateador.cs",
+              "DocumentMoniker": "C:\\Users\\goku9\\OneDrive\\Escritorio\\SENA\\TAREAS SENA\\software\\victor\\C#\\actividad-03\\ejercicio3.6\\Models\\Bateador.cs",
+              "RelativeDocumentMoniker": "Models\\Bateador.cs",
+              "ToolTip": "C:\\Users\\goku9\\OneDrive\\Escritorio\\SENA\\TAREAS SENA\\software\\victor\\C#\\actividad-03\\ejercicio3.6\\Models\\Bateador.cs",
+              "RelativeToolTip": "Models\\Bateador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T03:23:57.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pitchers.cs",
+              "DocumentMoniker": "C:\\Users\\goku9\\OneDrive\\Escritorio\\SENA\\TAREAS SENA\\software\\victor\\C#\\actividad-03\\ejercicio3.6\\Models\\Pitchers.cs",
+              "RelativeDocumentMoniker": "Models\\Pitchers.cs",
+              "ToolTip": "C:\\Users\\goku9\\OneDrive\\Escritorio\\SENA\\TAREAS SENA\\software\\victor\\C#\\actividad-03\\ejercicio3.6\\Models\\Pitchers.cs",
+              "RelativeToolTip": "Models\\Pitchers.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T02:16:28.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Jugador.cs",
+              "DocumentMoniker": "C:\\Users\\goku9\\OneDrive\\Escritorio\\SENA\\TAREAS SENA\\software\\victor\\C#\\actividad-03\\ejercicio3.6\\Models\\Jugador.cs",
+              "RelativeDocumentMoniker": "Models\\Jugador.cs",
+              "ToolTip": "C:\\Users\\goku9\\OneDrive\\Escritorio\\SENA\\TAREAS SENA\\software\\victor\\C#\\actividad-03\\ejercicio3.6\\Models\\Jugador.cs",
+              "RelativeToolTip": "Models\\Jugador.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T02:16:06.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Posicion.cs",
+              "DocumentMoniker": "C:\\Users\\goku9\\OneDrive\\Escritorio\\SENA\\TAREAS SENA\\software\\victor\\C#\\actividad-03\\ejercicio3.6\\Models\\Posicion.cs",
+              "RelativeDocumentMoniker": "Models\\Posicion.cs",
+              "ToolTip": "C:\\Users\\goku9\\OneDrive\\Escritorio\\SENA\\TAREAS SENA\\software\\victor\\C#\\actividad-03\\ejercicio3.6\\Models\\Posicion.cs",
+              "RelativeToolTip": "Models\\Posicion.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T02:16:25.526Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

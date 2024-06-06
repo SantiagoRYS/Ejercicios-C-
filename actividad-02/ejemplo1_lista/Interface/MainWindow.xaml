@@ -1,0 +1,32 @@
+﻿<Window x:Class="Interface.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Interface"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="465" Width="589">
+    <Grid Margin="0,0,10,0">
+        <Label x:Name="___Sin_nombre_" Content="Numero" HorizontalAlignment="Left" Height="26" Margin="34,99,0,0" VerticalAlignment="Top" Width="154"/>
+        <Label Content="Nombre" HorizontalAlignment="Left" Height="26" Margin="34,154,0,0" VerticalAlignment="Top" Width="154"/>
+        <Label Content="Sueldo" HorizontalAlignment="Left" Height="26" Margin="34,210,0,0" VerticalAlignment="Top" Width="154"/>
+        <GroupBox Header="Datos de empleados" Margin="16,40,38,172">
+            <Canvas Margin="0,0,0,-1"/>
+        </GroupBox>
+        <TextBox x:Name="TxbNumero" HorizontalAlignment="Left" Height="26" Margin="111,179,0,0"Margin="111,99,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="142"/>
+        <TextBox x:Name="TxbNombre" HorizontalAlignment="Left" Height="26" Margin="111,154,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="142"/>
+        <TextBox x:Name="TxbSueldo" HorizontalAlignment="Left" Height="26" Margin="111,210,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="142"/>
+        <Button x:Name="BtnInsertar" Content="Insertar" HorizontalAlignment="Left" Height="26" Margin="408,99,0,0" VerticalAlignment="Top" Width="84" Click="BtnInsertar_Click"/>
+        <DataGrid Name="EmpleadosDataGrid" AutoGenerateColumns="False" HorizontalAlignment="Left" Margin="10,130,0,0" VerticalAlignment="Top" Height="200" Width="480">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Número" Binding="{Binding Numero}"/>
+                <DataGridTextColumn Header="Nombre" Binding="{Binding Nombre}"/>
+                <DataGridTextColumn Header="Sueldo" Binding="{Binding Sueldo}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button x:Name="BtnSalir" Content="Salir" HorizontalAlignment="Left" Height="26" Margin="408,0,0,0" VerticalAlignment="Center" Width="84"/>
+        <Label Content="Total nomina:" HorizontalAlignment="Left" Height="27" Margin="28,412,0,0" VerticalAlignment="Top" Width="83"/>
+        <Label Content="Label" HorizontalAlignment="Left" Height="27" Margin="119,412,0,0" VerticalAlignment="Top" Width="126"/>
+
+    </Grid>
+</Window>

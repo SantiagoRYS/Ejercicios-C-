@@ -1,0 +1,34 @@
+﻿<Window x:Class="WpfAppJugadores.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppJugadores"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="477" Width="346">
+    <Grid>
+        <GroupBox HorizontalAlignment="Left" Height="161" Header="Posición del jugador" Margin="10,19,0,0" VerticalAlignment="Top" Width="147">
+            <Canvas/>
+        </GroupBox>
+        <GroupBox HorizontalAlignment="Left" Height="215" Header="Datos del jugador" Margin="10,203,0,0" VerticalAlignment="Top" Width="269">
+            <Canvas>
+                <Label x:Name="LblGoles" Content="Goles anotados:" Canvas.Left="10" Canvas.Top="150"/>
+            </Canvas>
+        </GroupBox>
+        <RadioButton x:Name="RbtPortero" Content="Portero" HorizontalAlignment="Left" Margin="31,52,0,0" VerticalAlignment="Top" Checked="RbtPortero_Checked"/>
+        <RadioButton x:Name="RbtDefensa" Content="Defensa" HorizontalAlignment="Left" Margin="31,83,0,0" VerticalAlignment="Top" Checked="RbtDefensa_Checked"/>
+        <RadioButton x:Name="RbtMedio" Content="Medio" HorizontalAlignment="Left" Margin="31,113,0,0" VerticalAlignment="Top" Checked="RbtMedio_Checked"/>
+        <RadioButton x:Name="RbtDelantero" Content="Delantero" HorizontalAlignment="Left" Margin="31,143,0,0" VerticalAlignment="Top" Checked="RbtDelantero_Checked"/>
+        <Label Content="Núm. uniforme:" HorizontalAlignment="Left" Margin="29,236,0,0" VerticalAlignment="Top"/>
+        <Label Content="Nombre:" HorizontalAlignment="Left" Margin="31,283,0,0" VerticalAlignment="Top"/>
+        <Label Content="Min. jugados:" HorizontalAlignment="Left" Margin="29,329,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="TxbNumero" HorizontalAlignment="Left" Margin="134,240,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="TxbNombre" HorizontalAlignment="Left" Margin="134,287,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="TxbMinutos" HorizontalAlignment="Left" Margin="134,333,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="TxbGoles" HorizontalAlignment="Left" Margin="134,375,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="BtnCapturar" Content="Capturar datos" HorizontalAlignment="Left" Margin="185,52,0,0" VerticalAlignment="Top" Height="29" Width="97" Click="BtnCapturar_Click"/>
+        <Button x:Name="BtnMostrar" Content="Mostrar datos" HorizontalAlignment="Left" Margin="185,105,0,0" VerticalAlignment="Top" Height="29" Width="97" Click="BtnMostrar_Click"/>
+        <Button x:Name="BtnSalir" Content="Salir" HorizontalAlignment="Left" Margin="185,166,0,0" VerticalAlignment="Top" Height="37" Width="97" Click="BtnSalir_Click"/>
+
+    </Grid>
+</Window>

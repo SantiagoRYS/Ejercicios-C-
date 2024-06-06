@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\goku9\\OneDrive\\Escritorio\\SENA\\TAREAS SENA\\software\\victor\\C#\\ejercicio1.13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCCDE2D-DA51-47E6-A6F6-92475A2AF62C}|WpfAppDia\\WpfAppDia.csproj|c:\\users\\goku9\\onedrive\\escritorio\\sena\\tareas sena\\software\\victor\\c#\\ejercicio1.13\\wpfappdia\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFCCDE2D-DA51-47E6-A6F6-92475A2AF62C}|WpfAppDia\\WpfAppDia.csproj|solutionrelative:wpfappdia\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCCDE2D-DA51-47E6-A6F6-92475A2AF62C}|WpfAppDia\\WpfAppDia.csproj|c:\\users\\goku9\\onedrive\\escritorio\\sena\\tareas sena\\software\\victor\\c#\\ejercicio1.13\\wpfappdia\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EFCCDE2D-DA51-47E6-A6F6-92475A2AF62C}|WpfAppDia\\WpfAppDia.csproj|solutionrelative:wpfappdia\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB70A4F9-3A65-4BE6-8DF1-485342DE563A}|BLL\\BLL.csproj|c:\\users\\goku9\\onedrive\\escritorio\\sena\\tareas sena\\software\\victor\\c#\\ejercicio1.13\\bll\\validacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB70A4F9-3A65-4BE6-8DF1-485342DE563A}|BLL\\BLL.csproj|solutionrelative:bll\\validacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3DF809-AD45-4193-A754-0E355B5F2159}|Models\\Models.csproj|c:\\users\\goku9\\onedrive\\escritorio\\sena\\tareas sena\\software\\victor\\c#\\ejercicio1.13\\models\\segundos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3DF809-AD45-4193-A754-0E355B5F2159}|Models\\Models.csproj|solutionrelative:models\\segundos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 191,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\goku9\\OneDrive\\Escritorio\\SENA\\TAREAS SENA\\software\\victor\\C#\\ejercicio1.13\\WpfAppDia\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfAppDia\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\goku9\\OneDrive\\Escritorio\\SENA\\TAREAS SENA\\software\\victor\\C#\\ejercicio1.13\\WpfAppDia\\MainWindow.xaml",
+              "RelativeToolTip": "WpfAppDia\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-03T02:23:14.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\goku9\\OneDrive\\Escritorio\\SENA\\TAREAS SENA\\software\\victor\\C#\\ejercicio1.13\\WpfAppDia\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppDia\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\goku9\\OneDrive\\Escritorio\\SENA\\TAREAS SENA\\software\\victor\\C#\\ejercicio1.13\\WpfAppDia\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfAppDia\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAmwCYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T02:23:13.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Validacion.cs",
+              "DocumentMoniker": "C:\\Users\\goku9\\OneDrive\\Escritorio\\SENA\\TAREAS SENA\\software\\victor\\C#\\ejercicio1.13\\BLL\\Validacion.cs",
+              "RelativeDocumentMoniker": "BLL\\Validacion.cs",
+              "ToolTip": "C:\\Users\\goku9\\OneDrive\\Escritorio\\SENA\\TAREAS SENA\\software\\victor\\C#\\ejercicio1.13\\BLL\\Validacion.cs",
+              "RelativeToolTip": "BLL\\Validacion.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T02:22:40.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Segundos.cs",
+              "DocumentMoniker": "C:\\Users\\goku9\\OneDrive\\Escritorio\\SENA\\TAREAS SENA\\software\\victor\\C#\\ejercicio1.13\\Models\\Segundos.cs",
+              "RelativeDocumentMoniker": "Models\\Segundos.cs",
+              "ToolTip": "C:\\Users\\goku9\\OneDrive\\Escritorio\\SENA\\TAREAS SENA\\software\\victor\\C#\\ejercicio1.13\\Models\\Segundos.cs",
+              "RelativeToolTip": "Models\\Segundos.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T02:22:00.818Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

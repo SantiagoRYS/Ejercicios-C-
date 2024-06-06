@@ -1,0 +1,35 @@
+﻿<Window x:Class="WpfAppEmpresa.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppEmpresa"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="481" Width="523">
+    <Grid>
+        <GroupBox HorizontalAlignment="Left" Height="174" Header="Datos del cliente" Margin="31,35,0,0" VerticalAlignment="Top" Width="440">
+            <Canvas/>
+        </GroupBox>
+        <GroupBox HorizontalAlignment="Left" Height="174" Header="Datos del empleado" Margin="31,212,0,0" VerticalAlignment="Top" Width="440">
+            <Canvas/>
+        </GroupBox>
+        <Label Content="Dirección:" HorizontalAlignment="Left" Margin="60,115,0,0" VerticalAlignment="Top"/>
+        <Label Content="Limite de credito:" HorizontalAlignment="Left" Margin="60,161,0,0" VerticalAlignment="Top"/>
+        <Label Content="Nombre:" HorizontalAlignment="Left" Margin="60,71,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="TxbNombreC" HorizontalAlignment="Left" Margin="131,75,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="TxbCredito" HorizontalAlignment="Left" Margin="167,165,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="84"/>
+        <TextBox x:Name="TxbDireccionC" HorizontalAlignment="Left" Margin="131,122,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="BtnCapturarC" Content="Capturar cliente" HorizontalAlignment="Left" Margin="324,84,0,0" VerticalAlignment="Top" Height="29" Width="108" Click="BtnCapturarC_Click"/>
+        <Button x:Name="BtnMostrarC" Content="Mostrar clientes" HorizontalAlignment="Left" Margin="324,145,0,0" VerticalAlignment="Top" Height="29" Width="108" Click="BtnMostrarC_Click"/>
+        <Button x:Name="BtnCapturarE" Content="Capturar empleado" HorizontalAlignment="Left" Margin="324,258,0,0" VerticalAlignment="Top" Height="28" Width="108" Click="BtnCapturarE_Click"/>
+        <Button x:Name="BtnMostrarE" Content="Mostrar empleados" HorizontalAlignment="Left" Margin="324,320,0,0" VerticalAlignment="Top" Height="30" Width="108" Click="BtnMostrarE_Click"/>
+        <Label Content="Nombre:" HorizontalAlignment="Left" Margin="60,254,0,0" VerticalAlignment="Top"/>
+        <Label Content="Dirección:" HorizontalAlignment="Left" Margin="60,294,0,0" VerticalAlignment="Top"/>
+        <Label Content="Salario:" HorizontalAlignment="Left" Margin="63,334,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="TxbSalario" HorizontalAlignment="Left" Margin="131,338,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="TxbDireccionE" HorizontalAlignment="Left" Margin="131,300,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="TxbNombreE" HorizontalAlignment="Left" Margin="131,258,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="BtnSalir" Content="Salir" HorizontalAlignment="Left" Margin="324,397,0,0" VerticalAlignment="Top" Width="108" Height="35" Click="BtnSalir_Click"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,31 @@
+﻿<Window x:Class="WpfAppPublicacion.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppPublicacion"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <GroupBox HorizontalAlignment="Left" Height="89" Header="Tipo de publicacion" Margin="54,42,0,0" VerticalAlignment="Top" Width="159">
+            <Canvas/>
+        </GroupBox>
+        <RadioButton x:Name="RbtImpreso" Content="Libro impreso" HorizontalAlignment="Left" Margin="68,72,0,0" VerticalAlignment="Top" Checked="RbtImpreso_Checked"/>
+        <RadioButton x:Name="RbtAudio" Content="Audio-libro" HorizontalAlignment="Left" Margin="68,101,0,0" VerticalAlignment="Top" Checked="RbtAudio_Checked"/>
+        <GroupBox x:Name="GrbInformacion" HorizontalAlignment="Left" Height="202" Header="Datos de la publicacion" Margin="54,170,0,0" VerticalAlignment="Top" Width="284">
+            <Canvas/>
+        </GroupBox>
+        <Label Content="Titulo" HorizontalAlignment="Left" Margin="81,0,0,0" VerticalAlignment="Center"/>
+        <Label x:Name="LblD" Content="Tiempo (minutos)" HorizontalAlignment="Left" Margin="81,319,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="LblN" Content="Núm. páginas" HorizontalAlignment="Left" Margin="81,279,0,0" VerticalAlignment="Top"/>
+        <Label Content="Precio" HorizontalAlignment="Left" Margin="81,239,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtTitulo" HorizontalAlignment="Left" Margin="136,0,0,0" TextWrapping="Wrap" VerticalAlignment="Center" Width="161"/>
+        <TextBox x:Name="TxtPrecio" HorizontalAlignment="Left" Margin="136,243,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="TxtNumeroPaginas" HorizontalAlignment="Left" Margin="178,283,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="60"/>
+        <TextBox x:Name="TxtDuracion" HorizontalAlignment="Left" Margin="196,323,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="54"/>
+        <Button x:Name="BtnCapturar" Content="Capturar datos" HorizontalAlignment="Left" Margin="257,53,0,0" VerticalAlignment="Top" Height="26" Width="81" Click="BtnCapturar_Click"/>
+        <Button x:Name="BtnMostrar" Content="Mostrar datos" HorizontalAlignment="Left" Margin="257,95,0,0" VerticalAlignment="Top" Height="26" Width="81" Click="BtnMostrar_Click"/>
+        <Button x:Name="BtnSalir" Content="Salir" HorizontalAlignment="Left" Margin="257,139,0,0" VerticalAlignment="Top" Height="26" Width="81" Click="BtnSalir_Click"/>
+
+    </Grid>
+</Window>

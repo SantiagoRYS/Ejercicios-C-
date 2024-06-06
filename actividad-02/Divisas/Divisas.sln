@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{1B0255B3-ED29-4528-B8D6-8D5230678E07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{CC87E5A9-83C7-4C35-839B-DC77D1BDFC89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfAppDivisas", "WpfAppDivisas\WpfAppDivisas.csproj", "{63282978-BC4F-4DF9-ABB5-7A270CC279B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B0255B3-ED29-4528-B8D6-8D5230678E07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B0255B3-ED29-4528-B8D6-8D5230678E07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B0255B3-ED29-4528-B8D6-8D5230678E07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B0255B3-ED29-4528-B8D6-8D5230678E07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC87E5A9-83C7-4C35-839B-DC77D1BDFC89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC87E5A9-83C7-4C35-839B-DC77D1BDFC89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC87E5A9-83C7-4C35-839B-DC77D1BDFC89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC87E5A9-83C7-4C35-839B-DC77D1BDFC89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63282978-BC4F-4DF9-ABB5-7A270CC279B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63282978-BC4F-4DF9-ABB5-7A270CC279B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63282978-BC4F-4DF9-ABB5-7A270CC279B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63282978-BC4F-4DF9-ABB5-7A270CC279B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85075C4C-FE29-4528-A588-C19D3085D70D}
+	EndGlobalSection
+EndGlobal

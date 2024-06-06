@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{4B46D49A-6F7D-495A-B2A7-77EBFFA337E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfAppCoordenadas", "WpfAppCoordenadas\WpfAppCoordenadas.csproj", "{A5DCD479-22C2-4BF9-86C6-1F790DE8A38B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B46D49A-6F7D-495A-B2A7-77EBFFA337E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B46D49A-6F7D-495A-B2A7-77EBFFA337E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B46D49A-6F7D-495A-B2A7-77EBFFA337E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B46D49A-6F7D-495A-B2A7-77EBFFA337E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5DCD479-22C2-4BF9-86C6-1F790DE8A38B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5DCD479-22C2-4BF9-86C6-1F790DE8A38B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5DCD479-22C2-4BF9-86C6-1F790DE8A38B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5DCD479-22C2-4BF9-86C6-1F790DE8A38B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1356E63-89D6-4899-982F-0FB264CA6F66}
+	EndGlobalSection
+EndGlobal

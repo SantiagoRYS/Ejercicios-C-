@@ -1,0 +1,21 @@
+﻿<Window x:Class="WpfAppauto.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppauto"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <GroupBox HorizontalAlignment="Left" Height="176" Header="Auto movil" Margin="38,41,0,0" VerticalAlignment="Top" Width="386">
+            <Canvas>
+                <TextBox x:Name="TxbCosto" Canvas.Left="137" TextWrapping="Wrap" Canvas.Top="59" Width="120" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+                <Button x:Name="BtnCalcular" Content="Calcular" Canvas.Left="278" Canvas.Top="57" HorizontalAlignment="Left" VerticalAlignment="Center" Click="BtnCalcular_Click"/>
+            </Canvas>
+        </GroupBox>
+        <Label Content="ingresa el costo&#xD;&#xA;de fabricación" HorizontalAlignment="Left" Margin="52,108,0,0" VerticalAlignment="Top" Width="113"/>
+        <Button x:Name="BtnSalir" Content="Salir" HorizontalAlignment="Left" Margin="326,174,0,0" VerticalAlignment="Top" Width="40" Click="BtnSalir_Click"/>
+        <Label x:Name="LblTotal" Content="" HorizontalAlignment="Left" Margin="52,174,0,0" VerticalAlignment="Top" Width="257"/>
+
+    </Grid>
+</Window>

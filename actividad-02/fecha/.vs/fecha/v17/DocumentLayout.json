@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\goku9\\OneDrive\\Escritorio\\SENA\\TAREAS SENA\\software\\victor\\C#\\fecha\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F32CEB-98A8-4759-AF1D-9292F61C1F41}|Models\\Models.csproj|c:\\users\\goku9\\onedrive\\escritorio\\sena\\tareas sena\\software\\victor\\c#\\fecha\\models\\fecha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F32CEB-98A8-4759-AF1D-9292F61C1F41}|Models\\Models.csproj|solutionrelative:models\\fecha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53DEF636-0B02-43D1-913E-D50ED459DFFD}|BLL\\BLL.csproj|c:\\users\\goku9\\onedrive\\escritorio\\sena\\tareas sena\\software\\victor\\c#\\fecha\\bll\\verificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53DEF636-0B02-43D1-913E-D50ED459DFFD}|BLL\\BLL.csproj|solutionrelative:bll\\verificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F43B5A9-B65D-4CC3-B1D6-05779338A3BB}|WpfAppFecha\\WpfAppFecha.csproj|c:\\users\\goku9\\onedrive\\escritorio\\sena\\tareas sena\\software\\victor\\c#\\fecha\\wpfappfecha\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F43B5A9-B65D-4CC3-B1D6-05779338A3BB}|WpfAppFecha\\WpfAppFecha.csproj|solutionrelative:wpfappfecha\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F43B5A9-B65D-4CC3-B1D6-05779338A3BB}|WpfAppFecha\\WpfAppFecha.csproj|c:\\users\\goku9\\onedrive\\escritorio\\sena\\tareas sena\\software\\victor\\c#\\fecha\\wpfappfecha\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8F43B5A9-B65D-4CC3-B1D6-05779338A3BB}|WpfAppFecha\\WpfAppFecha.csproj|solutionrelative:wpfappfecha\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Verificacion.cs",
+              "DocumentMoniker": "C:\\Users\\goku9\\OneDrive\\Escritorio\\SENA\\TAREAS SENA\\software\\victor\\C#\\fecha\\BLL\\Verificacion.cs",
+              "RelativeDocumentMoniker": "BLL\\Verificacion.cs",
+              "ToolTip": "C:\\Users\\goku9\\OneDrive\\Escritorio\\SENA\\TAREAS SENA\\software\\victor\\C#\\fecha\\BLL\\Verificacion.cs",
+              "RelativeToolTip": "BLL\\Verificacion.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T03:26:58.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\goku9\\OneDrive\\Escritorio\\SENA\\TAREAS SENA\\software\\victor\\C#\\fecha\\WpfAppFecha\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfAppFecha\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\goku9\\OneDrive\\Escritorio\\SENA\\TAREAS SENA\\software\\victor\\C#\\fecha\\WpfAppFecha\\MainWindow.xaml",
+              "RelativeToolTip": "WpfAppFecha\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-31T15:49:12.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\goku9\\OneDrive\\Escritorio\\SENA\\TAREAS SENA\\software\\victor\\C#\\fecha\\WpfAppFecha\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppFecha\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\goku9\\OneDrive\\Escritorio\\SENA\\TAREAS SENA\\software\\victor\\C#\\fecha\\WpfAppFecha\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfAppFecha\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAACwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T15:49:12.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Fecha.cs",
+              "DocumentMoniker": "C:\\Users\\goku9\\OneDrive\\Escritorio\\SENA\\TAREAS SENA\\software\\victor\\C#\\fecha\\Models\\Fecha.cs",
+              "RelativeDocumentMoniker": "Models\\Fecha.cs",
+              "ToolTip": "C:\\Users\\goku9\\OneDrive\\Escritorio\\SENA\\TAREAS SENA\\software\\victor\\C#\\fecha\\Models\\Fecha.cs",
+              "RelativeToolTip": "Models\\Fecha.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowCEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T15:33:15.842Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

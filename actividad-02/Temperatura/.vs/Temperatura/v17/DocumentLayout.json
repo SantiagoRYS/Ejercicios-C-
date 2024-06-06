@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\goku9\\source\\repos\\Temperatura\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2EE27D3-E8E9-40A8-9B33-F90EF37E10D2}|WpfAppTemperatura\\WpfAppTemperatura.csproj|c:\\users\\goku9\\source\\repos\\temperatura\\wpfapptemperatura\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2EE27D3-E8E9-40A8-9B33-F90EF37E10D2}|WpfAppTemperatura\\WpfAppTemperatura.csproj|solutionrelative:wpfapptemperatura\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED28174-2739-44BC-A948-9C5D9A08F3D2}|BLL\\BLL.csproj|c:\\users\\goku9\\source\\repos\\temperatura\\bll\\validar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED28174-2739-44BC-A948-9C5D9A08F3D2}|BLL\\BLL.csproj|solutionrelative:bll\\validar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{139BA4F6-A0C5-4E3E-920E-BB8EF3EC9FB9}|Models\\Models.csproj|c:\\users\\goku9\\source\\repos\\temperatura\\models\\temperatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{139BA4F6-A0C5-4E3E-920E-BB8EF3EC9FB9}|Models\\Models.csproj|solutionrelative:models\\temperatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2EE27D3-E8E9-40A8-9B33-F90EF37E10D2}|WpfAppTemperatura\\WpfAppTemperatura.csproj|c:\\users\\goku9\\source\\repos\\temperatura\\wpfapptemperatura\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B2EE27D3-E8E9-40A8-9B33-F90EF37E10D2}|WpfAppTemperatura\\WpfAppTemperatura.csproj|solutionrelative:wpfapptemperatura\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\goku9\\source\\repos\\Temperatura\\WpfAppTemperatura\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfAppTemperatura\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\goku9\\source\\repos\\Temperatura\\WpfAppTemperatura\\MainWindow.xaml",
+              "RelativeToolTip": "WpfAppTemperatura\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-01T21:49:18.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\goku9\\source\\repos\\Temperatura\\WpfAppTemperatura\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppTemperatura\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\goku9\\source\\repos\\Temperatura\\WpfAppTemperatura\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfAppTemperatura\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAACAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T21:49:17.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Validar.cs",
+              "DocumentMoniker": "C:\\Users\\goku9\\source\\repos\\Temperatura\\BLL\\Validar.cs",
+              "RelativeDocumentMoniker": "BLL\\Validar.cs",
+              "ToolTip": "C:\\Users\\goku9\\source\\repos\\Temperatura\\BLL\\Validar.cs",
+              "RelativeToolTip": "BLL\\Validar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T21:45:11.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Temperatura.cs",
+              "DocumentMoniker": "C:\\Users\\goku9\\source\\repos\\Temperatura\\Models\\Temperatura.cs",
+              "RelativeDocumentMoniker": "Models\\Temperatura.cs",
+              "ToolTip": "C:\\Users\\goku9\\source\\repos\\Temperatura\\Models\\Temperatura.cs",
+              "RelativeToolTip": "Models\\Temperatura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T21:22:08.079Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

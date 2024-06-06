@@ -1,0 +1,30 @@
+C:\Users\goku9\source\repos\ejercicio3.5\Models\obj\Debug\net8.0\Models.csproj.AssemblyReference.cache
+C:\Users\goku9\source\repos\ejercicio3.5\Models\obj\Debug\net8.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goku9\source\repos\ejercicio3.5\Models\obj\Debug\net8.0\Models.AssemblyInfoInputs.cache
+C:\Users\goku9\source\repos\ejercicio3.5\Models\obj\Debug\net8.0\Models.AssemblyInfo.cs
+C:\Users\goku9\source\repos\ejercicio3.5\Models\obj\Debug\net8.0\Models.csproj.CoreCompileInputs.cache
+C:\Users\goku9\source\repos\ejercicio3.5\Models\bin\Debug\net8.0\Models.deps.json
+C:\Users\goku9\source\repos\ejercicio3.5\Models\bin\Debug\net8.0\Models.dll
+C:\Users\goku9\source\repos\ejercicio3.5\Models\bin\Debug\net8.0\Models.pdb
+C:\Users\goku9\source\repos\ejercicio3.5\Models\bin\Debug\net8.0\BLL.dll
+C:\Users\goku9\source\repos\ejercicio3.5\Models\bin\Debug\net8.0\BLL.pdb
+C:\Users\goku9\source\repos\ejercicio3.5\Models\obj\Debug\net8.0\Models.csproj.Up2Date
+C:\Users\goku9\source\repos\ejercicio3.5\Models\obj\Debug\net8.0\Models.dll
+C:\Users\goku9\source\repos\ejercicio3.5\Models\obj\Debug\net8.0\refint\Models.dll
+C:\Users\goku9\source\repos\ejercicio3.5\Models\obj\Debug\net8.0\Models.pdb
+C:\Users\goku9\source\repos\ejercicio3.5\Models\obj\Debug\net8.0\ref\Models.dll
+C:\Users\goku9\OneDrive\Escritorio\SENA\TAREAS SENA\software\victor\C#\actividad-03\ejercicio3.5\Models\bin\Debug\net8.0\Models.deps.json
+C:\Users\goku9\OneDrive\Escritorio\SENA\TAREAS SENA\software\victor\C#\actividad-03\ejercicio3.5\Models\bin\Debug\net8.0\Models.dll
+C:\Users\goku9\OneDrive\Escritorio\SENA\TAREAS SENA\software\victor\C#\actividad-03\ejercicio3.5\Models\bin\Debug\net8.0\Models.pdb
+C:\Users\goku9\OneDrive\Escritorio\SENA\TAREAS SENA\software\victor\C#\actividad-03\ejercicio3.5\Models\bin\Debug\net8.0\BLL.dll
+C:\Users\goku9\OneDrive\Escritorio\SENA\TAREAS SENA\software\victor\C#\actividad-03\ejercicio3.5\Models\bin\Debug\net8.0\BLL.pdb
+C:\Users\goku9\OneDrive\Escritorio\SENA\TAREAS SENA\software\victor\C#\actividad-03\ejercicio3.5\Models\obj\Debug\net8.0\Models.csproj.AssemblyReference.cache
+C:\Users\goku9\OneDrive\Escritorio\SENA\TAREAS SENA\software\victor\C#\actividad-03\ejercicio3.5\Models\obj\Debug\net8.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goku9\OneDrive\Escritorio\SENA\TAREAS SENA\software\victor\C#\actividad-03\ejercicio3.5\Models\obj\Debug\net8.0\Models.AssemblyInfoInputs.cache
+C:\Users\goku9\OneDrive\Escritorio\SENA\TAREAS SENA\software\victor\C#\actividad-03\ejercicio3.5\Models\obj\Debug\net8.0\Models.AssemblyInfo.cs
+C:\Users\goku9\OneDrive\Escritorio\SENA\TAREAS SENA\software\victor\C#\actividad-03\ejercicio3.5\Models\obj\Debug\net8.0\Models.csproj.CoreCompileInputs.cache
+C:\Users\goku9\OneDrive\Escritorio\SENA\TAREAS SENA\software\victor\C#\actividad-03\ejercicio3.5\Models\obj\Debug\net8.0\Models.csproj.Up2Date
+C:\Users\goku9\OneDrive\Escritorio\SENA\TAREAS SENA\software\victor\C#\actividad-03\ejercicio3.5\Models\obj\Debug\net8.0\Models.dll
+C:\Users\goku9\OneDrive\Escritorio\SENA\TAREAS SENA\software\victor\C#\actividad-03\ejercicio3.5\Models\obj\Debug\net8.0\refint\Models.dll
+C:\Users\goku9\OneDrive\Escritorio\SENA\TAREAS SENA\software\victor\C#\actividad-03\ejercicio3.5\Models\obj\Debug\net8.0\Models.pdb
+C:\Users\goku9\OneDrive\Escritorio\SENA\TAREAS SENA\software\victor\C#\actividad-03\ejercicio3.5\Models\obj\Debug\net8.0\ref\Models.dll
